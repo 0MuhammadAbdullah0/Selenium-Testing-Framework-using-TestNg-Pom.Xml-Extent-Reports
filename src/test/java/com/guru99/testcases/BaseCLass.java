@@ -2,7 +2,6 @@ package com.guru99.testcases;
 
 import com.guru99.utilities.readConfig;
 import org.apache.commons.lang3.RandomStringUtils;
-import org.apache.commons.lang3.RandomUtils;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.codehaus.plexus.util.FileUtils;
@@ -18,9 +17,8 @@ import org.apache.log4j.PropertyConfigurator;
 
 import java.io.File;
 import java.io.IOException;
-import java.lang.ref.SoftReference;
 
-public class BaseCLass {
+public class BaseCLass{
 
 
     readConfig readconfig=new readConfig();

@@ -10,9 +10,9 @@
     <test name="login">
         <parameter name="browser" value="edge"/>
         <classes>
-            <class name="com.guru99.testcases.TC_logintest_001"></class>
-            <class name="com.guru99.testcases.TC_logintestDDT_002"></class>
-            <class name="com.guru99.testcases.TC_AddCustomer_001"></class>
+            <class name="com.guru99.testcases.TC_logintest_001_Test"></class>
+            <class name="com.guru99.testcases.TC_logintestDDT_002_Test"></class>
+            <class name="com.guru99.testcases.TC_AddCustomer_001_Test"></class>
         </classes>
     </test>
 

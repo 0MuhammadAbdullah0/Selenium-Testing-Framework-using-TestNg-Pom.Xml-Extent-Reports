@@ -1,16 +1,15 @@
 package com.guru99.testcases;
 
-import com.beust.ah.A;
 import com.guru99.pageObjects.loginPage;
 import com.guru99.utilities.XLUtils;
-import org.openqa.selenium.NoAlertPresentException;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-public class TC_logintestDDT_002 extends BaseCLass{
+@Test
+public class TC_logintestDDT_002_Test extends BaseCLass {
 
 
     @Test(dataProvider = "loginData")

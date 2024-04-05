@@ -12,9 +12,9 @@ import org.testng.annotations.Test;
 import java.io.IOException;
 import java.time.Duration;
 
-public class TC_AddCustomer_001 extends BaseCLass{
+@Test
+public class TC_AddCustomer_001_Test extends BaseCLass {
 
-    @Test
     public void Add_Newcustomer() throws InterruptedException, IOException {
 
         loginPage lp = new loginPage(driver);

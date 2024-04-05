@@ -1,16 +1,13 @@
     package com.guru99.testcases;
 
-    import com.beust.ah.A;
     import com.guru99.pageObjects.loginPage;
-    import org.openqa.selenium.By;
-    import org.openqa.selenium.support.ui.ExpectedConditions;
-    import org.openqa.selenium.support.ui.WebDriverWait;
     import org.testng.Assert;
     import org.testng.annotations.Test;
 
     import java.io.IOException;
 
-    public class TC_logintest_001 extends BaseCLass {
+    @Test
+    public class TC_logintest_001_Test extends BaseCLass {
 
         @Test
         public void login() throws InterruptedException, IOException {
@@ -28,7 +25,7 @@
                 loginPage1.clickLoginButton();
 
 
-                if(driver.getTitle().contentEquals("Guru99 Bank Manage HomePage"))
+                if(driver.getTitle().contentEquals("Guru99 Bank Manager HomePage"))
                 {
                     Assert.assertTrue(true);
                     logger.info("login done");
