@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="guru99_framework">
+
+    <listeners>
+        <listener class-name="com.guru99.utilities.reporting"/>
+    </listeners>
+
+
+    <test name="login">
+        <parameter name="browser" value="edge"/>
+        <classes>
+            <class name="com.guru99.testcases.TC_logintest_001"></class>
+            <class name="com.guru99.testcases.TC_logintestDDT_002"></class>
+            <class name="com.guru99.testcases.TC_AddCustomer_001"></class>
+        </classes>
+    </test>
+
+
+</suite>
