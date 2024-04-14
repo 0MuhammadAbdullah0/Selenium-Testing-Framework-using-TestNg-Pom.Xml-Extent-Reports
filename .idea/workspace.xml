@@ -5,26 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4b29237-e238-4582-97c1-a20798f15148" name="Changes" comment="Build v1.0">
-      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.06.03.58.22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.02.14.47.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.22.54.30.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.22.54.58.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.22.56.21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.22.56.57.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.22.58.45.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScreenShot/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/ScreenShot/login.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configurations/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configurations/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/logfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logfile.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/pageObjects/AddCostumerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/pageObjects/AddCostumerPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/BaseCLass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/BaseCLass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_AddCustomer_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_AddCustomer_001_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintestDDT_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintestDDT_002_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintest_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintest_001_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Test-report2024.04.02.01.30.50.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Test-report2024.04.02.01.45.27.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Test-report2024.04.02.01.49.04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Test-report2024.04.02.01.50.15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Test-report2024.04.02.01.54.19.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Test-report2024.04.02.01.57.09.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Test-report2024.04.02.04.34.54.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Test-report2024.04.03.04.09.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.06.03.54.02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Test-report2024.04.03.04.20.05.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.06.03.51.46.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testData/LoginData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testData/LoginData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/BaseCLass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/BaseCLass_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_AddCustomer_001_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_AddCustomer_001_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintestDDT_002_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintestDDT_002_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintest_001_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintest_001_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestNG.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +42,6 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\apache-maven-3.9.6" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="21" />
@@ -72,6 +64,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Maven.guru99_framework [clean,install,test].executor": "Run",
+    "Maven.guru99_framework [package].executor": "Run",
     "Maven.guru99_framework [test,surefire:test].executor": "Run",
     "Maven.guru99_framework [test].executor": "Run",
     "Maven.guru99_framework.executor": "Run",
@@ -83,6 +76,7 @@
     "TestNG.TC_logintestDDT_002_Test.executor": "Run",
     "TestNG.TC_logintest_001.executor": "Run",
     "TestNG.TC_logintest_001.login.executor": "Run",
+    "TestNG.com.guru99.executor": "Run",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -91,7 +85,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -115,8 +109,42 @@
   <component name="RunManager" selected="Maven.guru99_framework [clean,install,test]">
     <configuration name="guru99_framework [clean,install,test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="customMavenHome" />
+            <option name="emulateTerminal" value="false" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="mavenHomeTypeForPersistence" value="BUNDLED3" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="printErrorStackTraces" value="true" />
+            <option name="showDialogWithAdvancedSettings" value="false" />
+            <option name="threads" />
+            <option name="useMavenConfig" value="true" />
+            <option name="userSettingsFile" value="" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="21" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
             <option name="cmdOptions" />
@@ -190,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712348916301</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Build v1.0">
+      <option name="closed" value="true" />
+      <created>1712358793594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712358793595</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -213,5 +249,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Build v1.0" />
     <option name="LAST_COMMIT_MESSAGE" value="Build v1.0" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_AddCustomer_001_Test.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

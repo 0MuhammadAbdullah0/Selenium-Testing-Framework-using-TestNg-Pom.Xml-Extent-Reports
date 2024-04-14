@@ -13,8 +13,9 @@ import java.io.IOException;
 import java.time.Duration;
 
 @Test
-public class TC_AddCustomer_001_Test extends BaseCLass {
+public class TC_AddCustomer_001_Test extends BaseCLass_Test {
 
+    @Test
     public void Add_Newcustomer() throws InterruptedException, IOException {
 
         loginPage lp = new loginPage(driver);
@@ -74,7 +75,7 @@ public class TC_AddCustomer_001_Test extends BaseCLass {
         } else {
             logger.info("Customer Cant be registered");
             capture_screen(driver, "Add_Newcustomer");
-            Assert.assertTrue(false);
+            Assert.fail();
 
         }
 
@@ -96,6 +97,4 @@ public class TC_AddCustomer_001_Test extends BaseCLass {
             logger.info("The User id is "+user_id);
 
         }
-
-
     }

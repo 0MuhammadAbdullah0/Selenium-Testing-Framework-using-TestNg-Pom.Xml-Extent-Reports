@@ -18,7 +18,7 @@ import org.apache.log4j.PropertyConfigurator;
 import java.io.File;
 import java.io.IOException;
 
-public class BaseCLass{
+public class BaseCLass_Test {
 
 
     readConfig readconfig=new readConfig();

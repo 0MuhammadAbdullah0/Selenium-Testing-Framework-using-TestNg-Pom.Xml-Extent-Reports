@@ -8,12 +8,12 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-@Test
-public class TC_logintestDDT_002_Test extends BaseCLass {
+@Test(dataProvider = "loginData")
+public class TC_logintestDDT_002_Test extends BaseCLass_Test {
 
 
-    @Test(dataProvider = "loginData")
-    public void login_DDT(String username,String password) throws IOException, InterruptedException {
+
+    public void login_DDT(String username,String password) throws InterruptedException {
 
 //        driver.get(baseUrl);
 //        logger.info("url opened");
@@ -28,12 +28,12 @@ public class TC_logintestDDT_002_Test extends BaseCLass {
         lp.clickLoginButton();
         logger.info("login button pressed");
 
-        if(isAlertPresent()==true)
+        if(isAlertPresent())
         {
             driver.switchTo().alert().accept();
             driver.switchTo().defaultContent();
             logger.warn("login failed");
-            Assert.assertTrue(false);
+            Assert.fail();
         }
 
         else

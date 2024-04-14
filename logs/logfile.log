@@ -4361,3 +4361,159 @@
 2024-04-06 03:59:41,238 [main] INFO  guru99_framework - Customer Registered Successfully!!!
 2024-04-06 03:59:41,275 [main] INFO  guru99_framework - The User id is 25877
 2024-04-06 03:59:41,300 [main] INFO  guru99_framework - The User id is 25877
+2024-04-12 00:15:16,916 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-12 00:15:23,365 [main] INFO  guru99_framework - url opened
+2024-04-12 00:15:23,940 [main] INFO  guru99_framework - username and password set
+2024-04-12 00:15:28,378 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-12 00:15:38,206 [main] INFO  guru99_framework - username entered
+2024-04-12 00:15:38,480 [main] INFO  guru99_framework - password entered
+2024-04-12 00:15:39,642 [main] INFO  guru99_framework - login button pressed
+2024-04-12 00:15:41,260 [main] WARN  guru99_framework - login failed
+2024-04-12 00:15:41,750 [main] INFO  guru99_framework - username entered
+2024-04-12 00:15:41,890 [main] INFO  guru99_framework - password entered
+2024-04-12 00:15:42,420 [main] INFO  guru99_framework - login button pressed
+2024-04-12 00:15:43,622 [main] WARN  guru99_framework - login failed
+2024-04-12 00:15:43,994 [main] INFO  guru99_framework - username entered
+2024-04-12 00:15:44,381 [main] INFO  guru99_framework - password entered
+2024-04-12 00:15:44,898 [main] INFO  guru99_framework - login button pressed
+2024-04-12 00:15:46,337 [main] WARN  guru99_framework - login failed
+2024-04-12 00:15:46,754 [main] INFO  guru99_framework - username entered
+2024-04-12 00:15:46,863 [main] INFO  guru99_framework - password entered
+2024-04-12 00:15:47,352 [main] INFO  guru99_framework - login button pressed
+2024-04-12 00:15:48,585 [main] WARN  guru99_framework - login failed
+2024-04-12 00:15:48,977 [main] INFO  guru99_framework - username entered
+2024-04-12 00:15:49,108 [main] INFO  guru99_framework - password entered
+2024-04-12 00:15:49,752 [main] INFO  guru99_framework - login button pressed
+2024-04-12 00:15:50,967 [main] WARN  guru99_framework - login failed
+2024-04-12 00:15:54,792 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-12 00:16:00,525 [main] INFO  guru99_framework - login page opened
+2024-04-12 00:16:00,703 [main] INFO  guru99_framework - username entered
+2024-04-12 00:16:01,188 [main] INFO  guru99_framework - password entered
+2024-04-12 00:16:01,863 [main] INFO  guru99_framework - login done
+2024-04-12 00:17:22,577 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-12 00:17:29,740 [main] INFO  guru99_framework - url opened
+2024-04-12 00:17:30,284 [main] INFO  guru99_framework - username and password set
+2024-04-12 00:17:34,265 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-12 00:17:44,277 [main] INFO  guru99_framework - username entered
+2024-04-12 00:17:44,512 [main] INFO  guru99_framework - password entered
+2024-04-12 00:17:45,684 [main] INFO  guru99_framework - login button pressed
+2024-04-12 00:17:47,489 [main] WARN  guru99_framework - login failed
+2024-04-12 00:17:47,748 [main] INFO  guru99_framework - username entered
+2024-04-12 00:17:47,945 [main] INFO  guru99_framework - password entered
+2024-04-12 00:17:48,443 [main] INFO  guru99_framework - login button pressed
+2024-04-12 00:17:49,684 [main] WARN  guru99_framework - login failed
+2024-04-12 00:17:49,949 [main] INFO  guru99_framework - username entered
+2024-04-12 00:17:50,249 [main] INFO  guru99_framework - password entered
+2024-04-12 00:17:50,758 [main] INFO  guru99_framework - login button pressed
+2024-04-12 00:17:52,407 [main] WARN  guru99_framework - login failed
+2024-04-12 00:17:52,617 [main] INFO  guru99_framework - username entered
+2024-04-12 00:17:52,774 [main] INFO  guru99_framework - password entered
+2024-04-12 00:17:53,290 [main] INFO  guru99_framework - login button pressed
+2024-04-12 00:17:54,535 [main] WARN  guru99_framework - login failed
+2024-04-12 00:17:54,830 [main] INFO  guru99_framework - username entered
+2024-04-12 00:17:55,120 [main] INFO  guru99_framework - password entered
+2024-04-12 00:17:55,617 [main] INFO  guru99_framework - login button pressed
+2024-04-12 00:17:56,854 [main] WARN  guru99_framework - login failed
+2024-04-12 00:18:00,433 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-12 00:18:07,294 [main] INFO  guru99_framework - login page opened
+2024-04-12 00:18:07,815 [main] INFO  guru99_framework - username entered
+2024-04-12 00:18:07,999 [main] INFO  guru99_framework - password entered
+2024-04-12 00:18:08,726 [main] INFO  guru99_framework - login done
+2024-04-14 02:14:57,360 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-14 02:14:59,180 [main] INFO  guru99_framework - url opened
+2024-04-14 02:15:03,899 [main] INFO  guru99_framework - username and password set
+2024-04-14 02:15:06,227 [main] INFO  guru99_framework - login done
+2024-04-14 02:15:09,521 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-14 02:15:20,130 [main] INFO  guru99_framework - username entered
+2024-04-14 02:15:20,269 [main] INFO  guru99_framework - password entered
+2024-04-14 02:15:21,449 [main] INFO  guru99_framework - login button pressed
+2024-04-14 02:15:21,472 [main] INFO  guru99_framework - login pass
+2024-04-14 02:15:24,537 [main] INFO  guru99_framework - username entered
+2024-04-14 02:15:24,689 [main] INFO  guru99_framework - password entered
+2024-04-14 02:15:26,186 [main] INFO  guru99_framework - login button pressed
+2024-04-14 02:15:27,427 [main] WARN  guru99_framework - login failed
+2024-04-14 02:15:27,917 [main] INFO  guru99_framework - username entered
+2024-04-14 02:15:28,046 [main] INFO  guru99_framework - password entered
+2024-04-14 02:15:28,528 [main] INFO  guru99_framework - login button pressed
+2024-04-14 02:15:29,667 [main] WARN  guru99_framework - login failed
+2024-04-14 02:15:30,133 [main] INFO  guru99_framework - username entered
+2024-04-14 02:15:30,271 [main] INFO  guru99_framework - password entered
+2024-04-14 02:15:31,722 [main] INFO  guru99_framework - login button pressed
+2024-04-14 02:15:31,738 [main] INFO  guru99_framework - login pass
+2024-04-14 02:15:33,997 [main] INFO  guru99_framework - username entered
+2024-04-14 02:15:34,121 [main] INFO  guru99_framework - password entered
+2024-04-14 02:15:34,595 [main] INFO  guru99_framework - login button pressed
+2024-04-14 02:15:36,844 [main] WARN  guru99_framework - login failed
+2024-04-14 02:15:40,492 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-14 02:15:52,125 [main] INFO  guru99_framework - login page opened
+2024-04-14 02:15:52,548 [main] INFO  guru99_framework - username entered
+2024-04-14 02:15:52,664 [main] INFO  guru99_framework - password entered
+2024-04-14 02:15:56,571 [main] INFO  guru99_framework - login done
+2024-04-14 02:16:07,563 [main] INFO  guru99_framework - customer details entered
+2024-04-14 02:16:07,595 [main] INFO  guru99_framework - Customer Registered Successfully!!!
+2024-04-14 02:16:07,631 [main] INFO  guru99_framework - The User id is 47990
+2024-04-14 02:16:07,655 [main] INFO  guru99_framework - The User id is 47990
+2024-04-14 23:03:29,460 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-14 23:03:36,392 [main] INFO  guru99_framework - url opened
+2024-04-14 23:03:37,853 [main] INFO  guru99_framework - username and password set
+2024-04-14 23:03:39,393 [main] INFO  guru99_framework - login done
+2024-04-14 23:03:42,672 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-14 23:03:52,561 [main] INFO  guru99_framework - username entered
+2024-04-14 23:03:52,737 [main] INFO  guru99_framework - password entered
+2024-04-14 23:03:54,383 [main] INFO  guru99_framework - login button pressed
+2024-04-14 23:03:54,386 [main] INFO  guru99_framework - login pass
+2024-04-14 23:03:58,499 [main] INFO  guru99_framework - username entered
+2024-04-14 23:03:58,632 [main] INFO  guru99_framework - password entered
+2024-04-14 23:03:59,619 [main] INFO  guru99_framework - login button pressed
+2024-04-14 23:04:01,372 [main] WARN  guru99_framework - login failed
+2024-04-14 23:04:01,662 [main] INFO  guru99_framework - username entered
+2024-04-14 23:04:01,808 [main] INFO  guru99_framework - password entered
+2024-04-14 23:04:02,285 [main] INFO  guru99_framework - login button pressed
+2024-04-14 23:04:03,465 [main] WARN  guru99_framework - login failed
+2024-04-14 23:04:03,835 [main] INFO  guru99_framework - username entered
+2024-04-14 23:04:03,939 [main] INFO  guru99_framework - password entered
+2024-04-14 23:04:06,496 [main] INFO  guru99_framework - login button pressed
+2024-04-14 23:04:06,496 [main] INFO  guru99_framework - login pass
+2024-04-14 23:04:09,607 [main] INFO  guru99_framework - username entered
+2024-04-14 23:04:09,729 [main] INFO  guru99_framework - password entered
+2024-04-14 23:04:10,215 [main] INFO  guru99_framework - login button pressed
+2024-04-14 23:04:12,102 [main] WARN  guru99_framework - login failed
+2024-04-14 23:04:15,657 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-14 23:04:22,010 [main] INFO  guru99_framework - login page opened
+2024-04-14 23:04:22,377 [main] INFO  guru99_framework - username entered
+2024-04-14 23:04:22,509 [main] INFO  guru99_framework - password entered
+2024-04-14 23:04:25,306 [main] INFO  guru99_framework - login done
+2024-04-14 23:17:36,919 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-14 23:17:41,813 [main] INFO  guru99_framework - url opened
+2024-04-14 23:17:42,443 [main] INFO  guru99_framework - username and password set
+2024-04-14 23:17:43,950 [main] INFO  guru99_framework - login done
+2024-04-14 23:17:47,278 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-14 23:17:55,994 [main] INFO  guru99_framework - username entered
+2024-04-14 23:17:56,135 [main] INFO  guru99_framework - password entered
+2024-04-14 23:17:59,296 [main] INFO  guru99_framework - login button pressed
+2024-04-14 23:17:59,304 [main] INFO  guru99_framework - login pass
+2024-04-14 23:18:02,713 [main] INFO  guru99_framework - username entered
+2024-04-14 23:18:02,832 [main] INFO  guru99_framework - password entered
+2024-04-14 23:18:03,808 [main] INFO  guru99_framework - login button pressed
+2024-04-14 23:18:05,964 [main] WARN  guru99_framework - login failed
+2024-04-14 23:18:06,253 [main] INFO  guru99_framework - username entered
+2024-04-14 23:18:06,409 [main] INFO  guru99_framework - password entered
+2024-04-14 23:18:07,465 [main] INFO  guru99_framework - login button pressed
+2024-04-14 23:18:09,541 [main] WARN  guru99_framework - login failed
+2024-04-14 23:18:09,895 [main] INFO  guru99_framework - username entered
+2024-04-14 23:18:10,011 [main] INFO  guru99_framework - password entered
+2024-04-14 23:18:13,233 [main] INFO  guru99_framework - login button pressed
+2024-04-14 23:18:13,233 [main] INFO  guru99_framework - login pass
+2024-04-14 23:18:16,331 [main] INFO  guru99_framework - username entered
+2024-04-14 23:18:16,526 [main] INFO  guru99_framework - password entered
+2024-04-14 23:18:17,763 [main] INFO  guru99_framework - login button pressed
+2024-04-14 23:18:19,683 [main] WARN  guru99_framework - login failed
+2024-04-14 23:18:22,988 [main] INFO  guru99_framework - Edge    driver initialized
+2024-04-14 23:18:28,661 [main] INFO  guru99_framework - login page opened
+2024-04-14 23:18:29,051 [main] INFO  guru99_framework - username entered
+2024-04-14 23:18:29,185 [main] INFO  guru99_framework - password entered
+2024-04-14 23:18:32,630 [main] INFO  guru99_framework - login done
+2024-04-14 23:18:43,506 [main] INFO  guru99_framework - customer details entered
+2024-04-14 23:18:43,520 [main] INFO  guru99_framework - Customer Registered Successfully!!!
+2024-04-14 23:18:43,559 [main] INFO  guru99_framework - The User id is 8544
+2024-04-14 23:18:43,583 [main] INFO  guru99_framework - The User id is 8544

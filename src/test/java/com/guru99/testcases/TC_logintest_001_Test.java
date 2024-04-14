@@ -6,9 +6,8 @@
 
     import java.io.IOException;
 
-    @Test
-    public class TC_logintest_001_Test extends BaseCLass {
 
+    public class TC_logintest_001_Test extends BaseCLass_Test {
         @Test
         public void login() throws InterruptedException, IOException {
 

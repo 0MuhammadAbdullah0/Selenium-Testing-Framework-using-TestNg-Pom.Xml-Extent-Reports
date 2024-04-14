@@ -7,7 +7,7 @@
     </listeners>
 
 
-    <test name="login">
+    <test name="testcases">
         <parameter name="browser" value="edge"/>
         <classes>
             <class name="com.guru99.testcases.TC_logintest_001_Test"></class>
