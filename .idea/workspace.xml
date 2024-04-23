@@ -5,25 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4b29237-e238-4582-97c1-a20798f15148" name="Changes" comment="Build v1.0">
-      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.02.14.47.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.22.54.30.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.22.54.58.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.22.56.21.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.22.56.57.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.22.58.45.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.23.00.41.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.23.03.24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-report2024.04.14.23.17.32.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configurations/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configurations/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/logfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logfile.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testData/LoginData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testData/LoginData.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/BaseCLass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/BaseCLass_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_AddCustomer_001_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_AddCustomer_001_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintestDDT_002_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintestDDT_002_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintest_001_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/guru99/testcases/TC_logintest_001_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestNG.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;0MuhammadAbdullah0&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/0MuhammadAbdullah0/Selenium-Testing-Framework-using-TestNg-Pom.Xml-Extent-Reports.git&quot;,
+    &quot;accountId&quot;: &quot;7299d211-aefe-489e-a100-426f7ffdf60e&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -82,7 +81,7 @@
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/muham/Desktop/GURU99TESTING/guru99_framework",
     "last_opened_file_path": "C:/Users/muham/Desktop/GURU99TESTING/guru99_framework",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings"
@@ -106,7 +105,7 @@
       <command value="mvn test" />
     </option>
   </component>
-  <component name="RunManager" selected="Maven.guru99_framework [clean,install,test]">
+  <component name="RunManager" selected="TestNG.C:/Users/muham/Desktop/GURU99TESTING/guru99_framework/src/test/resources/TestNG.xml">
     <configuration name="guru99_framework [clean,install,test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings">
@@ -226,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712358793595</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Build v1.0">
+      <option name="closed" value="true" />
+      <created>1713124217915</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713124217915</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
