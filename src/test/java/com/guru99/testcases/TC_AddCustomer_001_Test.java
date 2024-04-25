@@ -10,9 +10,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
-import java.time.Duration;
-
-@Test
+import java.time.Duration
 public class TC_AddCustomer_001_Test extends BaseCLass_Test {
 
     @Test

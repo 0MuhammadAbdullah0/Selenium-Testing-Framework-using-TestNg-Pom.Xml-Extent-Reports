@@ -8,11 +8,11 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-@Test(dataProvider = "loginData")
+
 public class TC_logintestDDT_002_Test extends BaseCLass_Test {
 
 
-
+    @Test(dataProvider = "loginData")
     public void login_DDT(String username,String password) throws InterruptedException {
 
 //        driver.get(baseUrl);

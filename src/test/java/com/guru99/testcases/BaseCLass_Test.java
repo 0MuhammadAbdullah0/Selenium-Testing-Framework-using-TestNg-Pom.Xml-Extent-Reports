@@ -31,7 +31,7 @@ public class BaseCLass_Test {
     public static Logger logger;
 
     @Parameters("browser")
-    @BeforeClass
+    @BeforeTest
     public void setup(String br) {
         PropertyConfigurator.configure("src/main/resources/log4j.properties");
         logger = LogManager.getLogger("guru99_framework");
@@ -56,7 +56,7 @@ public class BaseCLass_Test {
 
     }
 
-    @AfterClass
+    @AfterTest
     public static void teardown() {
         driver.quit();
     }
